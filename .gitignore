@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Streamlit and cache
+.streamlit/
+.history/
+prompt_playground_history.csv
+prompt_playground_history.json
+
+# System
+.DS_Store
+Thumbs.db
